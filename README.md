@@ -1,5 +1,8 @@
 # NexusLinks - Bookmarking Websites with Logos
 
+![image](https://github.com/user-attachments/assets/a8fafab4-9d20-441d-a10f-28380d1f1416)
+
+
 ## 📌 Introduction
 **NexusLinks** is a web-based bookmarking tool that helps users remember websites through visually recognizable logos and stylish bookmarks. It enhances the browsing experience with an organized and appealing layout.
 
