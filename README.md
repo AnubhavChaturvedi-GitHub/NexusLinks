@@ -2,8 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/a8fafab4-9d20-441d-a10f-28380d1f1416)
 
-Demo [Link](https://silly-twilight-cd5aaf.netlify.app/)
-## 📌 Introduction
+## 📌 Introduction [Link](https://silly-twilight-cd5aaf.netlify.app/)
 **NexusLinks** is a web-based bookmarking tool that helps users remember websites through visually recognizable logos and stylish bookmarks. It enhances the browsing experience with an organized and appealing layout.
 
 ## 🚀 Features
