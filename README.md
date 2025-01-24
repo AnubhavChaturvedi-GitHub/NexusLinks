@@ -43,7 +43,7 @@
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/anubhavchaturvedi/nexuslinks.git
+   git clone https://github.com/AnubhavChaturvedi-GitHub/NexusLinks.git
    cd nexuslinks
    ```
 2. Install dependencies:
