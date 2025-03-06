@@ -28,9 +28,6 @@
 │   │   ├── index.css             # Global styles
 │   │   ├── main.tsx              # Application entry point
 │   │   └── vite-env.d.ts         # TypeScript environment settings
-│   └── .bolt/                     # Bolt AI configuration
-│       ├── config.json           # Bolt AI config settings
-│       └── prompt                # Prompt file for Bolt AI
 ```
 
 ## 🛠️ Technologies Used
